@@ -1,6 +1,6 @@
 # FSD50KLabelClassification
 
-Label classification script for [FSD50K](https://arxiv.org/pdf/2010.00475.pdf
+Label classification script for [FSD50K](https://arxiv.org/pdf/2010.00475.pdf)
 
 ## Prepare
 Check this [Link](https://zenodo.org/record/4060432#.X52PlEL7SdY)
